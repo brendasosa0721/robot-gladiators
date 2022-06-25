@@ -95,3 +95,10 @@ if (promptFight === "fight" || promptFight === "FIGHT") {
     fight();
   }
 }
+
+// enemy combatants
+
+var enemyNames = [ " Roboto " , " Amy Androd " , " Robo Trumble "];
+console.log(enemyNames.length);
+
+
